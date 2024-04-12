@@ -458,6 +458,7 @@ define([
             if (!self.model.get('b2bUsers')) {
                 var b2bAccount = new B2BAccountModels.b2bAccount({ id: customerAccountId });
                 b2bAccount.apiGet().then(function () {
+                    window.console.log('b2b', b2bAccount)
                     b2bAccount.apiGetUsers().then(function (users) {
                         self.model.isLoading(false);
                         self.model.set("b2bUsers", users.data.items);
