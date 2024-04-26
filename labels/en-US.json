@@ -946,5 +946,19 @@
   "returnReceiptSubstitutedQty":"Substitute Qty",
   "returnReceiptSubstitutedProductName":"Product Name",
   "returnReceiptSubstituteUPCColumn": "Substitute UPC",
-  "priceIncreasedBlob1": "An item on your order {0}. was substituted with another item. Your order will be fulfilled only after balance payment is made. Please contact customer care for more details. If you would like to view or manage your order, please visit <a href=\"https://{1}/myaccount\">My Account</a>."
+  "priceIncreasedBlob1": "An item on your order {0}. was substituted with another item. Your order will be fulfilled only after balance payment is made. Please contact customer care for more details. If you would like to view or manage your order, please visit <a href=\"https://{1}/myaccount\">My Account</a>.",
+  "orderPickupReadyBlobHB":" A valid photo ID (passport, driver’s license or Keypass) is required to collect your order, as well as your credit card if you used it to pay for this order.",
+  "orderReadyForCollection":"YOUR ORDER IS READY FOR COLLECTION",
+  "someItemsReadyForCollection":"SOME ITEMS IN YOUR ORDER ARE READY FOR COLLECTION",
+  "orderPickupReadyBlobHeader1":"Your order is ready to collect in-store. Get ready to collect your goodies.",
+  "orderPickupReadyBlobHeader2":"Just show this email when you arrive in store and we will do the rest.",
+  "orderTag":"Order ",
+  "shipmentTag":"Shipment #",
+  "clickAndCollectStore":"PICKUP STORE",
+  "pickupStoreName":"Honey Birdette - ",
+  "itemsInTheOrder":"ITEMS READY FOR COLLECTION",
+  "returnAndExchanges":"RETURNS & EXCHANGES",
+  "returnAndExchangesBlob":"Gift without risk, honey! In store and online purchases can be returned within 45 days. Standard terms apply and excludes sale items."
+  
+
 }
